@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="0.27" tests="1" skipped="0" failures="1" errors="0">
+<testcase classname="ets tour website login process" name="ets tour login" time="0.049">
+<failure/>
+<system-out><![CDATA[
+Given go to ets tour website................................................undefined
+And go to login button and wait.............................................skipped
+When clikc the enter button.................................................skipped
+And write email.............................................................skipped
+And write password..........................................................skipped
+When clikt the login button.................................................skipped
+Then confirm page cannot be navigated to....................................skipped
+]]></system-out>
+</testcase>
+</testsuite>
