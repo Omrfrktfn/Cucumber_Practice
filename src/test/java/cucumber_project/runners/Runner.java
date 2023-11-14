@@ -16,7 +16,7 @@ import org.junit.runner.RunWith;
         monochrome = true,//raporlarin consoleda okunakli sekilde cikmasi icin
         features = "src/test/resources/features/day01_background.feature",
         glue = {"mini_bootcamp_cucumber/stepdefinitions","hooks"},   //stepdefinitions path
-        tags = "@ets",
+        tags = "@madamcoco",
         dryRun = false
 )
 public class Runner {

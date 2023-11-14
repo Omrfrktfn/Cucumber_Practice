@@ -11,7 +11,7 @@ import io.cucumber.java.en.When;
 
 import static org.junit.Assert.assertEquals;
 
-public class MyStepdefs {
+public class Day01_Background_StepDef {
 
     Day01_Background_Page page = new Day01_Background_Page();
     String expectedUrl = "";
